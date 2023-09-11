@@ -11,6 +11,9 @@ If you're looking for a high-quality and visually appealing, feature-rich Next.j
 - TypeScript Support
 and Much More ...
 
+Video demo: https://photos.app.goo.gl/dzhDpsGS34CprtwPA
+
+The quality may appear lower on Google photos initially. If given a short while to fully load it will play in high definition.
 
 ### ⚡ Deploy Now
 
